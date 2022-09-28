@@ -1,7 +1,7 @@
 # BlogiNote Starter Template
 This repository is a starter template to build a static website with the BlogiNote theme.
 
-:link: You can follow the steps listed below, or check out [this tutorial](https://bloginote.benbinbin.com/article/tutorial/quick-start) for more details about how to use this template step-by-step.
+You can follow the steps listed below, or check out :sparkles: [this tutorial](https://bloginote.benbinbin.com/article/tutorial/quick-start) for more details about how to use this template step-by-step.
 
 ## Setup
 
