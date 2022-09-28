@@ -1,0 +1,29 @@
+{
+  "name": "bloginote-starter-template",
+  "description": "This repository is a starter template to build a static website with the BlogiNote theme.",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Benbinbin/BlogiNote-Starter-Template.git"
+  },
+  "keywords": [
+    "blog",
+    "note",
+    "markdown",
+    "nuxt",
+    "content",
+    "static",
+    "remark"
+  ],
+  "author": "Benbinbin <benthomsonbin@gmail.com> (https://benbinbin.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "bloginote-test": "2.5.6",
+    "nuxt": "3.0.0-rc.11"
+  }
+}
