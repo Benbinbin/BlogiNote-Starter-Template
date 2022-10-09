@@ -56,7 +56,7 @@ export default defineNuxtConfig({
   typescript: {
     shim: false
   },
-  extends: ['bloginote-test'],
+  extends: ['bloginote'],
   content: {
     highlight: {
       preload: [],
