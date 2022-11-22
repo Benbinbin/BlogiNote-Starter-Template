@@ -1,5 +1,3 @@
-import { defineNuxtConfig } from 'nuxt'
-
 /**
  *
  * copy asset files to public folder
