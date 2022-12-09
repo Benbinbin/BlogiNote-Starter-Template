@@ -55,6 +55,4 @@ Each time you save the change, the preview web page will refresh automatically.
 
 :link: [BlogiNote Github Repo](https://github.com/Benbinbin/BlogiNote)
 
-:link: [BlogiNote Starter Template](https://github.com/Benbinbin/BlogiNote)
-
 :link: [Contact Me](mailto:benthomsonbin@gmail.com)
