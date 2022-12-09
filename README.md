@@ -45,7 +45,7 @@ Each time you save the change, the preview web page will refresh automatically.
 
 2. You will get the `dist/` directory (symlink to `.output/public`), then you can deploy this folder to any static hosting server.
 
-:bulb: Recommend to [deploy the project to Vercel](https://documentation.bloginote.benbinbin.com/article/tutorial/get-start#deploy-to-vercel). If you want to deploy to other platform, please check out the [documentation of Nuxt](https://v3.nuxtjs.org/guide/deploy/static-hosting).
+:bulb: Recommend to [deploy the project to Vercel](https://documentation.bloginote.benbinbin.com/article/tutorial/get-start#deploy-to-vercel). If you want to deploy to other platform, please check out the [documentation of Nuxt](https://nuxt.com/docs/getting-started/deployment#static-hosting).
 
 ## Reference
 
