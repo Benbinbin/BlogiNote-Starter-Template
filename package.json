@@ -4,7 +4,7 @@
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
-    "generate": "nuxt generate",
+    "generate": "nuxt generate && npx pagefind --source dist",
     "preview": "nuxt preview"
   },
   "keywords": [
@@ -18,7 +18,7 @@
   ],
   "license": "MIT",
   "devDependencies": {
-    "bloginote": "2.4.1",
+    "bloginote": "3.0.0",
     "nuxt": "npm:nuxt3@3.0.1-rc.0-27828744.aa9aec1"
   }
 }
