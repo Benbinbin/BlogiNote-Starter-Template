@@ -6,5 +6,7 @@ node_modules
 .output
 .env
 dist
+yarn.lock
 
 public/article
+public/_pagefind

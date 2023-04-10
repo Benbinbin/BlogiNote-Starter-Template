@@ -32,7 +32,7 @@ Markdown basic syntax can refer to the following two websites:
 
 ![Local Image](./images/typewriter.jpg)
 
-![Online Image](https://i.picsum.photos/id/866/536/354.jpg?hmac=tGofDTV7tl2rprappPzKFiZ9vDh5MKj39oa2D--gqhA)
+![Online Image](https://picsum.photos/id/60/800/500)
 
 ::TipBox{type="tip"}
 you can double click the image to zoom in
@@ -161,25 +161,11 @@ Superscript x^2^
 
 Subscript O_2_
 
-++addition++
-
---delete--
-
-//comment//
-
-==highlight==
-
 ### Images Group
 
-images group (contain one piece)
+images group
 
-::ImageList{height='400px'}
-![perspective](https://picsum.photos/id/1029/1080)
-::
-
-images group (contain many pieces)
-
-::ImageList{height='400px'}
+::ImageList{height='500px'}
 ![laptop](https://picsum.photos/id/0/200)
 ![ocean](https://picsum.photos/id/1002/600)
 ![boat](https://picsum.photos/id/1011/400)
@@ -197,17 +183,17 @@ you can also double click the image to zoom in
 ### Tab Group
 
 ::TabGroup
-  ::TabItem{name="Tab1"}
-  this is the first tab
-  ::
+::::TabItem{name="Tab1"}
+this is the first tab :thumbsup:
+::::
 
-  ::TabItem{name="Tab1"}
-  this is the second tab
-  ::
+::::TabItem{name="Tab1"}
+this is the second tab :wink:
+::::
 
-  ::TabItem{name="Tab3"}
-  this is the third tab
-  ::
+::::TabItem{name="Tab3"}
+this is the third tab :tada:
+::::
 ::
 
 ---
