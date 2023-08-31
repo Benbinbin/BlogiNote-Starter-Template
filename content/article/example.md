@@ -184,7 +184,7 @@ you can also double click the image to zoom in
 
 ::TabGroup
 ::::TabItem{name="Tab1"}
-this is the first tab :thumbsup:
+this is the first tab :+1:
 ::::
 
 ::::TabItem{name="Tab1"}
